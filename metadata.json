@@ -1,0 +1,6 @@
+{
+  "name": "PlantillaFlow Studio",
+  "description": "Sistema de venta de plantillas digitales de Notion y Excel con enlaces de pago (Stripe, PayPal, MercadoPago), entrega verificada y control de meta diaria de 5 a 10 USD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
